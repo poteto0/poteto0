@@ -14,7 +14,7 @@ https://zenn.dev/poteto0
    https://zenn.dev/poteto0/articles/888a63abd586b8
 
 ## Skills
-Web Developper forcus on serverside & web3.
+Web Developper forcus on serverside & web3, basketball. Contributed NBA Cluster of Twitter.
 
 ### Language
 ![](https://img.shields.io/badge/golang-00ADD8?&style=plastic&logo=go&logoColor=white)
