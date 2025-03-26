@@ -58,5 +58,5 @@ Web Developper forcus on serverside & web3.
 ![](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ### Study
-![](https://img.shields.io/badge/study-bioMath-purple)
-![](https://img.shields.io/badge/study-mathSimulation-orange)
+![](https://img.shields.io/badge/master-bioMath-purple)
+![](https://img.shields.io/badge/master-mathSimulation-orange)
