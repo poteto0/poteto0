@@ -1,10 +1,5 @@
 # Hello, I'm Mahiro Fukuda (poteto)
 
-## Summary
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=poteto0&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=poteto0&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-
 ## Tech-Blog (Japanese Only)
 
 https://zenn.dev/poteto0
@@ -43,8 +38,6 @@ Web Developper forcus on serverside & web3.
 ![](https://img.shields.io/badge/node-expressjs-lightgreen)
 ![](https://img.shields.io/badge/ruby-rails-red)
 ![](https://img.shields.io/badge/py-fastapi-blue)
-
-### ORM / DB
 ![](https://img.shields.io/badge/go-gorm-lightblue)
 ![](https://img.shields.io/badge/node-typeorm-lightgreen)
 ![](https://img.shields.io/badge/node-prisma-lightgreen)
@@ -63,9 +56,6 @@ Web Developper forcus on serverside & web3.
 ### OS
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-### CLI
-![](https://img.shields.io/badge/go-cobra-lightblue)
 
 ### Study
 ![](https://img.shields.io/badge/study-bioMath-purple)
