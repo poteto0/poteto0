@@ -45,6 +45,7 @@ Web Developper forcus on serverside & web3, basketball. Contributed NBA Cluster 
 ### Web3
 ![](https://img.shields.io/badge/node-alchemy-lightgreen)
 ![](https://img.shields.io/badge/node-etherjs-lightgreen)
+![](https://img.shields.io/badge/node-seaportjs-lightgreen)
 ![](https://img.shields.io/badge/web3-hyperLedger-yellow)
 
 ### Cloud
