@@ -58,6 +58,6 @@ Web Developper forcus on serverside & web3, basketball. Contributed NBA Cluster 
 ![](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ### Study
-![](https://img.shields.io/badge/master-bioMath-purple)
+![](https://img.shields.io/badge/master-orange-purple)
 ![](https://img.shields.io/badge/master-mathSimulation-orange)
 ![](https://img.shields.io/badge/master-mdckcell-orange)
