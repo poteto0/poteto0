@@ -5,6 +5,10 @@
 https://zenn.dev/poteto0
 
 ### Recent Works
+- OIDC with golang
+
+   https://zenn.dev/poteto0/articles/33920651dd2d9d
+
 - Immich × Raspi × Cloudflare Tunnel
 
    https://zenn.dev/poteto0/articles/13cca0729d1b43
@@ -59,6 +63,6 @@ Web Developper forcus on serverside & web3, basketball. Contributed NBA Cluster 
 ![](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ### Study
-![](https://img.shields.io/badge/master-orange-purple)
+![](https://img.shields.io/badge/master-bioMath-orange)
 ![](https://img.shields.io/badge/master-mathSimulation-orange)
 ![](https://img.shields.io/badge/master-mdckcell-orange)
