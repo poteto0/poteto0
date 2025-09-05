@@ -3,6 +3,8 @@
 https://portfolio.poteto-mahiro.com/
 
 ## My Active App
+- rip-city-paper
+  https://rc-paper.poteto-mahiro.com/articles
 - rip-city-thread
   https://rc-thread.poteto-mahiro.com/
 
