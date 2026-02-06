@@ -65,6 +65,7 @@ Web Developper forcus on serverside & web3, basketball. Contributed NBA Cluster 
 ![](https://img.shields.io/badge/cl-snowflake-lightblue)
 ![](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
 ![](https://img.shields.io/badge/Google%20Cloud-4285F4?&style=plastic&logo=Google%20Cloud&logoColor=white)
+![](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)(AKS)
 
 ### OS
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
