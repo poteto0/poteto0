@@ -1,6 +1,6 @@
 # Hello, I'm Mahiro Fukuda (poteto)
 
-https://portfolio.poteto-mahiro.com/
+https://poteto-dev.poteto-mahiro.com/
 
 ## My Active App
 - rip-city-paper
