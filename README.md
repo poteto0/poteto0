@@ -2,11 +2,9 @@
 
 https://poteto-dev.poteto-mahiro.com/
 
-## My Active App
-- rip-city-paper
-  https://rc-paper.poteto-mahiro.com/articles
-- playbook-lang
-  https://playbook-lang-app.poteto-mahiro.com/
+## My App
+
+- https://poteto-dev.poteto-mahiro.com/apps/
 
 ## Tech-Blog (Japanese Only)
 
